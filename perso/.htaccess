@@ -1,0 +1,3 @@
+RedirectPermanent /home/yannickpgt/www/ /home/yannickpgt/www/public/
+
+DirectoryIndex public/index.php
